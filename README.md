@@ -1,5 +1,5 @@
 # dark.github.io
-jekell theme, modify from lay1010.github.io
+jekyll theme, modify from lay1010.github.io
 
 **分别作了以下修改：**
 
